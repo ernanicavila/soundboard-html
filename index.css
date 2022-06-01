@@ -25,11 +25,17 @@ p {
   justify-content: space-between;
   width: 800px;
 }
-h1{
+
+h1 {
   text-align: center;
 }
 
-.rodape{
-  color:black;
-  margin-top: 100px;
+.rodape {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  margin-top: 50px;
+}
+a{
+  cursor: pointer;
 }
