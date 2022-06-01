@@ -1,0 +1,30 @@
+.button {
+  border-radius: 50%;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+p {
+  font-size: 18px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex {
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+}
+h1{
+  text-align: center;
+}
