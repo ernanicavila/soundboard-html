@@ -11,7 +11,7 @@ const loco = new Audio()
 loco.src='stuff/loco.mpeg'
 
 const pedrin = new Audio()
-pedrin.src='stuff/pedrin.mp3'
+pedrin.src='stuff/pedro.mp3'
 
 const en = document.querySelector(".bender");
 en.addEventListener("click", () => {
