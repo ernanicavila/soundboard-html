@@ -10,6 +10,9 @@ bixao.src='stuff/bixao.mpeg'
 const loco = new Audio()
 loco.src='stuff/loco.mpeg'
 
+const pedrin = new Audio()
+pedrin.src='stuff/pedrin.mp3'
+
 const en = document.querySelector(".bender");
 en.addEventListener("click", () => {
   bender.play();
@@ -28,4 +31,9 @@ bixo.addEventListener('click', ()=>{
 const looko = document.querySelector('.loko')
 looko.addEventListener('click', ()=>{
   loco.play()
+})
+
+const ped = document.querySelector('.pedrin');
+ped.addEventListener('click', () =>{
+  pedrin.play()
 })
