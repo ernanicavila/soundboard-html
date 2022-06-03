@@ -36,6 +36,9 @@ h1 {
   text-align: center;
   margin-top: 50px;
 }
-a{
+a {
   cursor: pointer;
+}
+.github {
+  margin-top: 20px;
 }
